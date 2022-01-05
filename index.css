@@ -105,3 +105,26 @@ body{
     font-weight: 700;
     border-radius: 5px;
 }
+.free-services{
+    margin-top: 80px;
+}
+.half-widht form{
+    border-top: 5px solid black;
+    box-shadow: 10px 10px 50px grey;
+    padding: 50px;
+    padding-top: 20px;
+    width: 40%;
+    margin-left: 10%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.free-service-contents{
+    margin-top: 90px;
+    width: 40%;
+    margin-right: 10%;
+    padding-right: 10px;
+}
+footer p{
+    text-align: center;
+    margin-top: 30px;
+}
