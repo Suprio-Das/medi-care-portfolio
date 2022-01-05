@@ -50,3 +50,58 @@ body{
 .section02-adjusting{
     margin-top: 100px;
 }
+.doctor-img-section{
+    width: 50%;
+    padding-left: 60px;
+    margin-top: 20px;
+}
+#doc-1{
+    box-shadow: 10px 10px 50px grey;
+    border-radius: 20px;
+    width: 30%;
+    margin-left: 5%;
+}
+.doc1-img{
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 70%;
+}
+.doc2-img{
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 55%;
+}
+.doc3-img{
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 70%;
+}
+.doct-name2{
+    margin-left: 20px;
+}
+.doct-name3{
+    margin-left: 32px;
+}
+#doc-2{
+    box-shadow: 10px 10px 50px grey;
+    border-radius: 20px;
+    width: 30%;
+    margin-left: 5%;
+}
+#doc-3{
+    box-shadow: 10px 10px 50px grey;
+    border-radius: 20px;
+    width: 30%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.doct-section{
+    font-size: 30px;
+    background-color: orange;
+    padding: 20px;
+    width: 87%;
+    margin-left: 67px;
+    border-left: 5px solid black;
+    font-weight: 700;
+    border-radius: 5px;
+}
